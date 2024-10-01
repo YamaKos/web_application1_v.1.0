@@ -5,6 +5,8 @@ self.addEventListener('install', (event) => {
                 '/',
                 '/index.html',
                 '/trip-guide.pdf',
+                '/style.css',
+                '/script.js',
                 '/manifest.json'
             ]);
         })
